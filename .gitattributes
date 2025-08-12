@@ -1,0 +1,17 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Ensure shell scripts use LF
+*.sh text eol=lf
+
+# Ensure Windows scripts use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
