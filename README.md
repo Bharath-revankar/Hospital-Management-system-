@@ -21,11 +21,6 @@ A comprehensive Hospital Management System built with the MERN stack (MongoDB, E
 - Appointment approval workflow
 - Search and filter appointments
 
-### 💰 Billing & PDF Generation
-- Automated billing system
-- PDF invoice generation for patient discharge
-- Detailed cost breakdown (room charges, medicine, doctor fees)
-
 ### 🔍 Search & Filter
 - Advanced search for doctors by department
 - Patient search by symptoms
